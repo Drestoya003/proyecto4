@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Andres",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "meta": "",
+    "favorite_movies": [
+      "Mission Impossible: Samurai",
+      "Приключения Домовёнка",
+      "Practical Magic",
+      "Kaena: The Prophecy",
+      "Alter Egos"
+    ],
+    "genres_inferidos": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "History"
+    ]
+  }
+]
